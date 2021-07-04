@@ -1,5 +1,5 @@
 # TowerDefense
-This is just a simple tower defence game I created for fun. This is a personal project I created for frequent coding practice since I'm not on a programming job or study course. This uses pygame for its game engine. This uses pandas for accesing excel files in the map folder. You can create maps yourself and also modify the round like the number of heavy, medium, and light enemy units. You can also create the tiles that the game will use for the map.
+This is just a simple tower defense game I created for fun. This is a personal project I created for frequent coding practice since I'm not on a programming job or study course. This uses pygame for its game engine. This uses pandas for accesing excel files in the map folder. You can create maps yourself and also modify the round like the number of heavy, medium, and light enemy units. You can also create the tiles that the game will use for the map.
 
 # How to create a map
 1. Create a folder in the map directory, the name of the folder will also serve as the name of the map when shown in the game.
